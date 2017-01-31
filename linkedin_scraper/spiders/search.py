@@ -9,9 +9,6 @@ class SearchSpider(InitSpider):
     allowed_domains = ['linkedin.com']
     login_page = 'https://www.linkedin.com/uas/login'
 
-    start_urls = [
-        'https://www.linkedin.com/vsearch/f?type=people&keywords=MateuszMoneta']
-
     def __init__(self, *args, **kwargs):
         try:
             self.username = kwargs.pop('username', environ['SPIDER_USERNAME'])
@@ -19,6 +16,11 @@ class SearchSpider(InitSpider):
         except KeyError:
             self.logger.error('Both username and password need to be specified '
                               'by -a option or SPIDER_<PARAM> environment var')
+
+        query = kwargs.pop('query', 'Mateusz+Moneta')
+        self.start_urls = [
+            'https://www.linkedin.com/vsearch/f?type=people&keywords=%s' % query
+        ]
 
         super().__init__(*args, **kwargs)
 
