@@ -5,8 +5,8 @@ from scrapy.spiders.init import InitSpider
 from scrapy.http import Request, FormRequest
 
 
-class SearchSpider(InitSpider):
-    name = 'search'
+class PeopleSearchSpider(InitSpider):
+    name = 'people_search'
     allowed_domains = ['linkedin.com']
     login_page = 'https://www.linkedin.com/uas/login'
 
