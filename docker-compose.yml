@@ -2,5 +2,17 @@ version: "2"
 
 services:
 
+  crawler:
+    build: .
+    entrypoint: scrapy crawl search
+    volumes:
+      - .:/opt/linkedin_scraper
+    links:
+      - splash
+    environment:
+      SCRAPY_USERNAME:
+      SCRAPY_PASSWORD:
+      SPLASH_ADDR: http://splash:8050
+
   splash:
     image: scrapinghub/splash
