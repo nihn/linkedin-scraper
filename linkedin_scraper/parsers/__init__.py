@@ -1,2 +1,3 @@
 from linkedin_scraper.parsers.employment import EmploymentParser
+from linkedin_scraper.parsers.location import LocationParser
 from linkedin_scraper.parsers.person_name import PersonNameParser

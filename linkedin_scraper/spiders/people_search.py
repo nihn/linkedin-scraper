@@ -4,7 +4,11 @@ from scrapy_splash import SplashRequest
 from scrapy.spiders.init import InitSpider
 from scrapy.http import Request, FormRequest
 
-from linkedin_scraper.parsers import EmploymentParser, PersonNameParser
+from linkedin_scraper.parsers import (
+    EmploymentParser,
+    LocationParser,
+    PersonNameParser,
+)
 
 
 class PeopleSearchSpider(InitSpider):
@@ -14,6 +18,7 @@ class PeopleSearchSpider(InitSpider):
 
     name_parser = PersonNameParser()
     employment_parser = EmploymentParser()
+    location_parser = LocationParser()
 
     def __init__(self, *args, **kwargs):
         try:
@@ -47,15 +52,19 @@ class PeopleSearchSpider(InitSpider):
                 'string(.)').extract_first()
             employment = search_result.css(
                 'div.description::text').extract_first()
+            location = search_result.css('bdi::text').extract_first()
 
             first_name, last_name = self.name_parser.parse(names)
             position, company = self.employment_parser.parse(employment)
+            city, country = self.location_parser.parse(location)
 
             yield {
                 'first_name': first_name,
                 'last_name': last_name,
                 'position': position,
                 'company': company,
+                'city': city,
+                'country': country,
             }
 
     def check_login_response(self, response):
