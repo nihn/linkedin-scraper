@@ -11,7 +11,7 @@ class BaseParser:
 
     @staticmethod
     def normalize_lines(lines):
-        return set(line.lower() for line in lines)
+        return set(line.lower().strip() for line in lines)
 
     def get_lines_from_datafile(self, name: str) -> set:
         """
