@@ -12,8 +12,10 @@ class PeopleSearchSpider(InitSpider):
 
     def __init__(self, *args, **kwargs):
         try:
-            self.username = kwargs.pop('username', environ['SPIDER_USERNAME'])
-            self.password = kwargs.pop('password', environ['SPIDER_PASSWORD'])
+            self.username = (kwargs.pop('username', None) or
+                             environ['SPIDER_USERNAME'])
+            self.password = (kwargs.pop('password', None) or
+                             environ['SPIDER_PASSWORD'])
         except KeyError:
             raise Exception('Both username and password need to be specified '
                             'by -a option or SPIDER_<PARAM> environment var')
