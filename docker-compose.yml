@@ -4,7 +4,7 @@ services:
 
   crawler:
     build: .
-    entrypoint: scrapy crawl search
+    entrypoint: scrapy crawl people_search
     volumes:
       - .:/opt/linkedin_scraper
     links:
