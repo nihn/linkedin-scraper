@@ -22,15 +22,13 @@ class PeopleSearchSpider(InitSpider):
 
     def __init__(self, *args, **kwargs):
         try:
-            self.username = (kwargs.pop('username', None) or
-                             environ['SPIDER_USERNAME'])
-            self.password = (kwargs.pop('password', None) or
-                             environ['SPIDER_PASSWORD'])
+            self.username = kwargs.pop('username')
+            self.password = kwargs.pop('password')
+            query = kwargs.pop('query')
         except KeyError:
-            raise Exception('Both username and password need to be specified '
-                            'by -a option or SPIDER_<PARAM> environment var')
+            raise Exception('Missing option, please use `scrapy people_search '
+                            'cmd to use this spider')
 
-        query = kwargs.pop('query', 'Mateusz+Moneta')
         self.start_urls = [
             'https://www.linkedin.com/vsearch/f?type=people&keywords=%s' % query
         ]

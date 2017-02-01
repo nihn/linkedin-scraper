@@ -4,14 +4,12 @@ services:
 
   crawler:
     build: .
-    entrypoint: scrapy crawl people_search
+    entrypoint: scrapy people_search
     volumes:
       - .:/opt/linkedin_scraper
     links:
       - splash
     environment:
-      SCRAPY_USERNAME:
-      SCRAPY_PASSWORD:
       SPLASH_ADDR: http://splash:8050
 
   splash:

@@ -1,10 +1,9 @@
 from os import getenv
 
 BOT_NAME = 'linkedin_scraper'
-
 SPIDER_MODULES = ['linkedin_scraper.spiders']
 NEWSPIDER_MODULE = 'linkedin_scraper.spiders'
-
+COMMANDS_MODULE = 'linkedin_scraper.commands'
 
 USER_AGENT = 'linkedin_scraper (+https://www.github.com/nihn/linkedin_scraper)'
 
