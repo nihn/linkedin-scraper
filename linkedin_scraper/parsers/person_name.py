@@ -1,4 +1,4 @@
-from linkedin_scraper.parsers import BaseParser
+from linkedin_scraper.parsers.base import BaseParser
 
 
 class PersonNameParser(BaseParser):

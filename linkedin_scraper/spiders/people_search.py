@@ -4,7 +4,7 @@ from scrapy_splash import SplashRequest
 from scrapy.spiders.init import InitSpider
 from scrapy.http import Request, FormRequest
 
-from linkedin_scraper.parsers.person_name import PersonNameParser
+from linkedin_scraper.parsers import PersonNameParser
 
 
 class PeopleSearchSpider(InitSpider):

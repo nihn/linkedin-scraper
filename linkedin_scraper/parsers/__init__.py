@@ -1,3 +1,1 @@
-class BaseParser:
-    def parse(self, item):
-        raise NotImplemented()
+from linkedin_scraper.parsers.person_name import PersonNameParser
