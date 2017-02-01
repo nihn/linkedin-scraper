@@ -1,5 +1,6 @@
 from os import environ
 
+from scrapy_splash import SplashRequest
 from scrapy.spiders.init import InitSpider
 from scrapy.http import Request, FormRequest
 
@@ -47,3 +48,8 @@ class SearchSpider(InitSpider):
             return self.initialized()
 
         self.logger.error('Login failed!')
+
+    def make_requests_from_url(self, url):
+        # Do SplashRequest instead of regular one to be able to evaluate
+        # JavaScript responsible for dynamic page generation.
+        return SplashRequest(url)
