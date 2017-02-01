@@ -15,8 +15,8 @@ class SearchSpider(InitSpider):
             self.username = kwargs.pop('username', environ['SPIDER_USERNAME'])
             self.password = kwargs.pop('password', environ['SPIDER_PASSWORD'])
         except KeyError:
-            self.logger.error('Both username and password need to be specified '
-                              'by -a option or SPIDER_<PARAM> environment var')
+            raise Exception('Both username and password need to be specified '
+                            'by -a option or SPIDER_<PARAM> environment var')
 
         query = kwargs.pop('query', 'Mateusz+Moneta')
         self.start_urls = [
