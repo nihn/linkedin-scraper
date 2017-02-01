@@ -38,7 +38,10 @@ class PeopleSearchSpider(InitSpider):
 
     def parse(self, response):
         for search_result in response.css('li.mod.result.people'):
-            *first_name, last_name = search_result.css('b::text').extract()
+            names = search_result.css('a.title.main-headline').xpath(
+                'string(.)').extract_first()
+            *first_name, last_name = names.split()
+
             yield {
                 'first_name': ' '.join(first_name),
                 'last_name': last_name,
