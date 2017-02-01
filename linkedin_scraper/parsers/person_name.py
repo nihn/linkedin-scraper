@@ -4,6 +4,10 @@ from linkedin_scraper.parsers.base import BaseParser
 
 
 class PersonNameParser(BaseParser):
+    def __init__(self):
+        self.names_list = self.get_lines_from_datafile('names_list.txt')
+        self.surnames_list = self.get_lines_from_datafile('surnames_list.txt')
+
     def parse(self, item: str) -> Tuple[str, str]:
         """
         Parse string with person name into two pieces:
