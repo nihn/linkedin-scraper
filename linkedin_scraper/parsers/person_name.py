@@ -1,15 +1,15 @@
+from typing import Tuple
+
 from linkedin_scraper.parsers.base import BaseParser
 
 
 class PersonNameParser(BaseParser):
-    def parse(self, item):
+    def parse(self, item: str) -> Tuple[str, str]:
         """
         Parse string with person name into two pieces:
         <first, second, ... name> and <last name>
         :param item: name string
-        :type: str
         :return: first...n name, last name
-        :rtype: tuple(str, str)
         """
         if not item:
             return '', ''
