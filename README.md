@@ -22,6 +22,8 @@ This use `docker-compose run` command under the hood. For more options
 see `./run.sh -h`.
 Be aware that you will be asked for your LinkedIn credentials in order
 to allow the scraper to login and do actual query.
+By default results are stored in `results.csv`, you can change this by
+explicitly passed `-o` option.
 
 ## Tests ##
 ```
