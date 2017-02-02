@@ -1,9 +1,12 @@
+import re
 from typing import Tuple
 
 from linkedin_scraper.parsers.base import BaseParser
 
 
 class PersonNameParser(BaseParser):
+    forbidden_chars_pattern = re.compile(r'[^\w^\s]', re.UNICODE)
+
     def __init__(self):
         self.names_list = self.get_lines_from_datafile('names_list.txt')
         self.surnames_list = self.get_lines_from_datafile('surnames_list.txt')
@@ -40,6 +43,9 @@ class PersonNameParser(BaseParser):
     def _parse(self, item: str) -> Tuple[str, str]:
         if not item:
             return [''], ''
+
+        # Remove all unwanted items
+        item = self.forbidden_chars_pattern.sub('', item)
 
         names = [name.capitalize() for name in item.split()]
         first_names, surnames, unknown = self._categorize_items(names)

@@ -28,6 +28,10 @@ def test_empty_name(person_name_parser):
     assert ('', '') == person_name_parser.parse('')
 
 
+def test_name_normalization(person_name_parser):
+    assert ('John', 'Smith') == person_name_parser.parse('JOHN smith')
+
+
 def test_detected_one_surname_and_first_name(person_name_parser):
     person_name_parser.names_list = ['john', 'brian']
     person_name_parser.surnames_list = ['smith']
@@ -41,3 +45,8 @@ def test_first_names_found_with_one_item_unknown(person_name_parser):
 
     assert ('John Brian', 'Smith') == person_name_parser.parse(
         'Smith John Brian')
+
+
+def test_handling_no_letters_characters(person_name_parser):
+    assert ('Konrad', 'Żółć') == person_name_parser.parse(
+        '✯ Konrad ✓ Żółć ✯ ✉☛')
