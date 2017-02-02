@@ -22,9 +22,9 @@ class Command(BaseCommand):
                           help='Password for LinkedIn account')
 
     def process_options(self, args, opts):
-        super().process_options(args, opts)
-
         opts.output = opts.output or 'results.csv'
+
+        super().process_options(args, opts)
 
         people_search_options = {
             'query': sanitize_query(args[0]),
