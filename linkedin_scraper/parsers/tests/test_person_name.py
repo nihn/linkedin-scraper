@@ -50,3 +50,8 @@ def test_first_names_found_with_one_item_unknown(person_name_parser):
 def test_handling_no_letters_characters(person_name_parser):
     assert ('Konrad', 'Żółć') == person_name_parser.parse(
         '✯ Konrad ✓ Żółć ✯ ✉☛')
+
+
+def test_comma_in_name(person_name_parser):
+    assert ('John', 'Smith') == person_name_parser.parse(
+        'John Smith, CEO of something')
