@@ -55,3 +55,14 @@ def test_handling_no_letters_characters(person_name_parser):
 def test_comma_in_name(person_name_parser):
     assert ('John', 'Smith') == person_name_parser.parse(
         'John Smith, CEO of something')
+
+
+def test_affix_in_name(person_name_parser):
+    person_name_parser.surname_affixes_list = ['van', 'der']
+    assert ('Hans', 'Van Der Meer') == person_name_parser.parse(
+        'Hans Van Der Meer')
+
+
+def test_affix_in_wrong_place(person_name_parser):
+    person_name_parser.surname_affixes_list = ['van']
+    assert ('Van', 'Smith') == person_name_parser.parse('Van Smith')
