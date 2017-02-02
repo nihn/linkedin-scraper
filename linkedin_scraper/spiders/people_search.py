@@ -70,7 +70,16 @@ class PeopleSearchSpider(InitSpider):
             self.logger.debug("Successfully logged in. Let's start crawling!")
             return self.initialized()
 
-        self.logger.error('Login failed!')
+        error_msg = response.css('span.error::text').extract_first()
+
+        if 'not the right password' in error_msg:
+            self.logger.error('Invalid password')
+        elif "we don't recognize that email" in error_msg:
+            self.logger.error('Invalid email')
+        else:
+            self.logger.error('Unknown error, cannot log in')
+
+        self.logger.debug('Error msg for server: %s', error_msg)
 
     def make_requests_from_url(self, url):
         # Do SplashRequest instead of regular one to be able to evaluate
