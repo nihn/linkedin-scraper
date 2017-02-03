@@ -30,7 +30,7 @@ class PeopleSearchSpider(InitSpider):
                             'cmd to use this spider')
 
         self.start_urls = [
-            'https://www.linkedin.com/vsearch/f?type=people&keywords=%s' % query
+            'https://www.linkedin.com/vsearch/p?type=people&keywords=%s' % query
         ]
 
         super().__init__(*args, **kwargs)
