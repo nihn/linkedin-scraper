@@ -175,6 +175,7 @@ fitter
 forester
 forestry
 forwarder
+founder
 freight
 fundraiser
 furnace
@@ -295,6 +296,7 @@ painter
 paperhanger
 paralegal
 paramedic
+partner
 pathologist
 patternmaker
 paver

@@ -11,7 +11,7 @@ try:
         lines = set(line.lower().strip() for line in f.readlines()[1:])
 
     # Add common corporate titles
-    lines |= {'CEO', 'CTO', 'CAO', 'CBO', 'CFO'}
+    lines |= {'CEO', 'CTO', 'CAO', 'CBO', 'CFO', 'founder', 'partner'}
 
     with open('data/professions_list.txt', 'w+') as f:
         f.write('\n'.join(line for line in sorted(lines)
