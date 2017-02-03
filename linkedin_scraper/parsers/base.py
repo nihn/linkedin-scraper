@@ -1,6 +1,9 @@
+import logging
 from os import path
 
 import linkedin_scraper
+
+logger = logging.getLogger(__name__)
 
 
 class BaseParser:
@@ -18,8 +21,12 @@ class BaseParser:
         Get and normalize lines from datafile.
         :param name: name of the file in package data directory
         """
-        with open(path.join(self.get_data_dir(), name)) as f:
-            return self.normalize_lines(f)
+        try:
+            with open(path.join(self.get_data_dir(), name)) as f:
+                return self.normalize_lines(f)
+        except FileNotFoundError:
+            logger.error('%s not found', name)
+            return set()
 
     def parse(self, item):
         raise NotImplemented()
