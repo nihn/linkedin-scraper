@@ -48,8 +48,8 @@ class PeopleSearchSpider(InitSpider):
         for search_result in response.css('li.mod.result.people'):
             names = search_result.css('a.title.main-headline').xpath(
                 'string(.)').extract_first()
-            employment = search_result.css(
-                'div.description::text').extract_first()
+            employment = search_result.css('div.description').xpath(
+                'string(.)').extract_first()
             location = search_result.css('bdi::text').extract_first()
 
             first_name, last_name = self.name_parser.parse(names)
