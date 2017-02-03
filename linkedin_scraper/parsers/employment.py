@@ -32,6 +32,6 @@ class EmploymentParser(BaseParser):
 
         # We found profession name in employment string, everything
         # after it is company name
-        return (' '.join(words[:founded_profession_index]).rstrip(',.-'),
-                ' '.join(words[founded_profession_index:]))
+        return (' '.join(words[:founded_profession_index]).rstrip(',.- '),
+                ' '.join(words[founded_profession_index:]).lstrip(',.- '))
 
