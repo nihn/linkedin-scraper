@@ -1,1846 +1,456 @@
-Able Seamen
-Accountant
-Accountant
-Auditor
-Actor
-Actuarie
-Acupuncturist
-Acute Care Nurse
-Adapted Physical Education Specialist
-Adjustment Clerk
-Administrative Law Judge
-Administrative Service Manager
-Adult Literacy
-Advanced Practice Psychiatric Nurse
-Advertising
-Promotion Manager
-Advertising Sale Agent
-Aerospace Engineering
-Operation Technician
-Aerospace Engineer
-Agent
-Busine Manager of Artist
-Agricultural
-Food Science Technician
-Agricultural Crop Farm Manager
-Agricultural Engineer
-Agricultural Equipment Operator
-Agricultural Inspector
-Agricultural Science Teacher
-Agricultural Technician
-Agricultural Worker
-Air Crew Member
-Air Crew Officer
-Air Traffic Controller
-Aircraft Body
-Bonded Structure Repairer
-Aircraft Cargo Handling Supervisor
-Aircraft Engine Specialist
-Aircraft Launch
-Recovery Officer
-Aircraft Launch
-Recovery Specialist
-Aircraft Mechanic
-Service Technician
-Aircraft Rigging Assembler
-Aircraft Structure Assembler
-Aircraft Structure
-Aircraft System Assembler
-Airfield Operation Specialist
-Airframe-and-Power-Plant Mechanic
-Airline Pilot
-Allergist
-Immunologist
-Ambulance Driver
-Attendant
-Amusement
-Recreation Attendant
-Anesthesiologist Assistant
-Anesthesiologist
-Animal Breeder
-Animal Control Worker
-Animal Scientist
-Animal Trainer
-Anthropologist
-Anthropologist
-Archeologist
-Anthropology
-Archeology Teacher
-Appraiser
-Assessor of Real Estate
-Appraiser
-Aquacultural Manager
-Arbitrator
-Archeologist
-Architect
-Architectural
-Civil Drafter
-Architectural Drafter
-Architecture Teacher
-Archivist
-Area
-Armored Assault Vehicle Crew Member
-Armored Assault Vehicle Officer
-Art Director
-Art Therapist
-Art
-Artillery
-Missile Crew Member
-Artillery
-Missile Officer
-Artist
-Related Worker
-Assembler
-Fabricator
-Assessor
-Astronomer
-Athlete
-Sport Competitor
-Athletic Trainer
-Atmospheric
-Space Scientist
-Atmospheric
-Audio
-Video Equipment Technician
-Audiologist
-Audiologist
-Audio-Visual Collection Specialist
-Auditor
-Automatic Teller Machine Servicer
-Automotive Body
-Related Repairer
-Automotive Engineering Technician
-Automotive Engineer
-Automotive Gla Installer
-Repairer
-Automotive Master Mechanic
-Automotive Service Technician
-Mechanic
-Automotive Specialty Technician
-Auxiliary Equipment Operator
-Aviation Inspector
-Avionic Technician
-Baggage Porter
-Bellhop
-Bailiff
-Baker
-Baker
-Baker
-Barber
-Barista
-Bartender
-Battery Repairer
-Bench Worker
-Bicycle Repairer
-Bill
-Account Collector
-Billing
-Posting Clerk
-Machine Operator
-Billing
-Billing
-Bindery Machine Operator
-Tender
-Bindery Machine Setter
-Set-Up Operator
-Bindery Worker
-Biochemical Engineer
-Biochemist
-Biochemist
-Biophysicist
-Biofuel Processing Technician
-Biofuel Production Manager
-Biofuels/Biodiesel Technology
-Product Development Manager
-Bioinformatic Scientist
-Bioinformatic Technician
-Biological Science Teacher
-Biological Scientist
-Biological Technician
-Biologist
-Bioma Plant Technician
-Bioma Power Plant Manager
-Biomedical Engineer
-Biophysicist
-Biostatistician
-Boat Builder
-Shipwright
-Boiler Operator
-Tender
-Boilermaker
-Bookbinder
-Bookkeeping
-Brattice Builder
-Brazer
-Brickmason
-Blockmason
-Bridge
-Lock Tender
-Broadcast New Analyst
-Broadcast Technician
-Brokerage Clerk
-Brownfield Redevelopment Specialist
-Site Manager
-Budget Analyst
-Buffing
-Polishing Set-Up Operator
-Building Cleaning Worker
-Bu
-Truck Mechanic
-Diesel Engine Specialist
-Bu Driver
-Bu Driver
-Busine Continuity Planner
-Busine Intelligence Analyst
-Busine Operation Specialist
-Busine Teacher
-Butcher
-Meat Cutter
-Cabinetmaker
-Bench Carpenter
-Calibration
-Instrumentation Technician
-Camera
-Photographic Equipment Repairer
-Camera Operator
-Camera Operator
-Captain
-Caption Writer
-Cardiovascular Technologist
-Technician
-Cargo
-Freight Agent
-Carpenter Assembler
-Repairer
-Carpenter
-Carpet Installer
-Cartographer
-Photogrammetrist
-Cartoonist
-Cashier
-Casting Machine Set-Up Operator
-Ceiling Tile Installer
-Cement Mason
-Concrete Finisher
-Cementing
-Gluing Machine Operator
-Tender
-Central Office
-PBX Installer
-Repairer
-Central Office Operator
-Chef
-Head Cook
-Chemical Engineer
-Chemical Equipment Controller
-Operator
-Chemical Equipment Operator
-Tender
-Chemical Equipment Tender
-Chemical Plant
-System Operator
-Chemical Technician
-Chemistry Teacher
-Chemist
-Chief Executive
-Chief Sustainability Officer
-Child Care Worker
-Child Support
-Child
-Chiropractor
-Choreographer
-City Planning Aide
-Civil Drafter
-Civil Engineering Technician
-Civil Engineer
-Claim Adjuster
-Claim Examiner
-Claim Taker
-Cleaner of Vehicle
-Equipment
-Cleaning
-Clergy
-Climate Change Analyst
-Clinical Data Manager
-Clinical Nurse Specialist
-Clinical Psychologist
-Clinical Research Coordinator
-Clinical
-Coache
-Scout
-Coating
-Coating
-Coating
-Coil Winder
-Coin
-Combination Machine Tool Operator
-Tender
-Combination Machine Tool Setter
-Set-Up Operator
-Combined Food Preparation
-Serving Worker
-Command
-Control Center Officer
-Command
-Control Center Specialist
-Commercial
-Industrial Designer
-Commercial Diver
-Commercial Pilot
-Communication Equipment Mechanic
-Communication Equipment Operator
-Communication Teacher
-Community
-Social Service Specialist
-Community Health Worker
-Compensation
-Benefit Manager
-Compensation
-Benefit Manager
-Compensation
-Compensation
-Compliance Manager
-Compliance Officer
-Composer
-Computer
-Information Research Scientist
-Computer
-Information Scientist
-Computer
-Information System Manager
-Computer Hardware Engineer
-Computer Network Architect
-Computer Network Support Specialist
-Computer Operator
-Computer Programmer
-Computer Programmer
-Computer Science Teacher
-Computer Security Specialist
-Computer Software Engineer
-Computer Software Engineer
-Computer Specialist
-Computer Support Specialist
-Computer System Analyst
-Computer System Analyst
-Computer System Engineers/Architect
-Computer User Support Specialist
-Computer
-Computer-Controlled Machine Tool Operator
-Concierge
-Conservation Scientist
-Construction
-Building Inspector
-Construction
-Related Worker
-Construction Carpenter
-Construction Driller
-Construction Laborer
-Construction Manager
-Continuou Mining Machine Operator
-Control
-Valve Installer
-Repairer
-Conveyor Operator
-Tender
-Cook
-Cook
-Cook
-Cook
-Cook
-Cook
-Cooling
-Freezing Equipment Operator
-Tender
-Copy Writer
-Coroner
-Correctional Officer
-Jailer
-Correspondence Clerk
-Cost Estimator
-Costume Attendant
-Counseling Psychologist
-Counselor
-Counter
-Rental Clerk
-Counter Attendant
-Courier
-Messenger
-Court Clerk
-Court Reporter
-Court
-Craft Artist
-Crane
-Tower Operator
-Creative Writer
-Credit Analyst
-Credit Authorizer
-Credit Authorizer
-Credit Checker
-Criminal Investigator
-Special Agent
-Criminal Justice
-Law Enforcement Teacher
-Critical Care Nurse
-Crossing Guard
-Crushing
-Curator
-Custom Tailor
-Customer Service Representative
-Customer Service Representative
-Custom Broker
-Cutter
-Trimmer
-Cutting
-Slicing Machine Operator
-Tender
-Cutting
-Slicing Machine Setter
-Cutting
-Cytogenetic Technologist
-Cytotechnologist
-Dancer
-Data Entry Keyer
-Data Processing Equipment Repairer
-Data Warehousing Specialist
-Database Administrator
-Database Administrator
-Database Architect
-Demonstrator
-Product Promoter
-Dental Assistant
-Dental Hygienist
-Dental Laboratory Technician
-Dentist
-Dentist
-Dermatologist
-Derrick Operator
-Design Printing Machine Setter
-Set-Up Operator
-Designer
-Desktop Publisher
-Detective
-Criminal Investigator
-Diagnostic Medical Sonographer
-Dietetic Technician
-Dietitian
-Nutritionist
-Dining Room
-Cafeteria Attendant
-Bartender Helper
-Directors- Stage
-Director
-Directory Assistance Operator
-Dishwasher
-Dispatcher
-Distance Learning Coordinator
-Document Management Specialist
-Door-To-Door Sale Worker
-Dot Etcher
-Drafter
-Dragline Operator
-Dredge Operator
-Drilling
-Boring Machine Tool Setter
-Driver-Sale Worker
-Drywall
-Ceiling Tile Installer
-Drywall Installer
-Duplicating Machine Operator
-Earth Driller
-Economic Teacher
-Economist
-Editor
-Education Administrator
-Education Administrator
-Education Administrator
-Education Administrator
-Education Teacher
-Education
-Educational Psychologist
-Educational
-Electric Home Appliance
-Power Tool Repairer
-Electric Meter Installer
-Repairer
-Electric Motor
-Switch Assembler
-Repairer
-Electric Motor
-Electrical
-Electronic Engineering Technician
-Electrical
-Electronic Equipment Assembler
-Electrical
-Electronic Inspector
-Tester
-Electrical
-Electronic Drafter
-Electrical
-Electronic Installer
-Repairer
-Electrical
-Electronic Repairer
-Electrical
-Electronic Repairer
-Electrical Drafter
-Electrical Engineering Technician
-Electrical Engineering Technologist
-Electrical Engineer
-Electrical Part Reconditioner
-Electrical Power-Line Installer
-Repairer
-Electrician
-Electrolytic Plating
-Coating Machine Operator
-Tender
-Electrolytic Plating
-Coating Machine Setter
-Set-Up Operator
-Electromechanical Engineering Technologist
-Electromechanical Equipment Assembler
-Electro-Mechanical Technician
-Electronic Drafter
-Electronic Equipment Installer
-Repairer
-Electronic Home Entertainment Equipment Installer
-Repairer
-Electronic Masking System Operator
-Electronic Engineering Technician
-Electronic Engineering Technologist
-Electronic Engineer
-Electrotyper
-Stereotyper
-Elementary School Teacher
-Elevator Installer
-Repairer
-Eligibility Interviewer
-Embalmer
-Embossing Machine Set-Up Operator
-Emergency Management Director
-Emergency Management Specialist
-Emergency Medical Technician
-Paramedic
-Employment Interviewer
-Employment
-Endoscopy Technician
-Energy Auditor
-Energy Broker
-Energy Engineer
-Engine
-Other Machine Assembler
-Engineering Manager
-Engineering Teacher
-Engineering Technician
-Engineer
-English Language
-Literature Teacher
-Engraver Set-Up Operator
-Engraver
-Engravers--Carver
-Entertainer
-Performer
-Entertainment Attendant
-Related Worker
-Environmental Compliance Inspector
-Environmental Economist
-Environmental Engineering Technician
-Environmental Engineer
-Environmental Restoration Planner
-Environmental Science
-Protection Technician
-Environmental Science Teacher
-Environmental Scientist
-Specialist
-Epidemiologist
-Equal Opportunity Representative
-Officer
-Etcher
-Etcher
-Engraver
-Etcher
-Excavating
-Loading Machine
-Dragline Operator
-Excavating
-Loading Machine Operator
-Executive Secretarie
-Administrative Assistant
-Exercise Physiologist
-Exhibit Designer
-Explosive Worker
-Extraction Worker
-Extruding
-Drawing Machine Setter
-Extruding
-Forming Machine Operator
-Tender
-Extruding
-Forming Machine Setter
-Extruding
-Extruding
-Extruding
-Fabric
-Apparel Patternmaker
-Fabric Mender
-Faller
-Family
-General Practitioner
-Farm
-Home Management Advisor
-Farm
-Ranch Manager
-Farm Equipment Mechanic
-Farm Labor Contractor
-Farm Labor Contractor
-Farm
-Farmer
-Rancher
-Farmworker
-Laborer
-Farmworker
-Fashion Designer
-Fence Erector
-Fiber Product Cutting Machine Setter
-Set-Up Operator
-Fibergla Laminator
-Fabricator
-File Clerk
-Film
-Video Editor
-Film Laboratory Technician
-Financial Analyst
-Financial Examiner
-Financial Manager
-Financial Manager
-Financial Quantitative Analyst
-Financial Specialist
-Fine Artist
-Fire Fighter
-Fire Inspector
-Fire Inspector
-Investigator
-Fire Investigator
-Fire-Prevention
-Protection Engineer
-First-Line Supervisor
-Manager-Supervisor - Agricultural Crop Worker
-First-Line Supervisor
-Manager-Supervisor - Animal Care Worker
-First-Line Supervisor
-Manager-Supervisor - Animal Husbandry Worker
-First-Line Supervisor
-Manager-Supervisor - Fishery Worker
-First-Line Supervisor
-Manager-Supervisor - Horticultural Worker
-First-Line Supervisor
-Manager-Supervisor - Landscaping Worker
-First-Line Supervisor
-Manager-Supervisor - Logging Worker
-First-Line Supervisor
-Manager-Supervisors- Construction Trade Worker
-First-Line Supervisor
-Manager-Supervisors- Extractive Worker
-First-Line Supervisor of Agricultural Crop
-Horticultural Worker
-First-Line Supervisor of Animal Husbandry
-Animal Care Worker
-First-Line Supervisor
-First-Line Supervisor
-First-Line Supervisors-Manager of Air Crew Member
-First-Line Supervisors-Manager of All Other Tactical Operation Specialist
-First-Line Supervisors-Manager of Construction Trade
-Extraction Worker
-First-Line Supervisors-Manager of Correctional Officer
-First-Line Supervisors-Manager of Farming
-First-Line Supervisors-Manager of Fire Fighting
-Prevention Worker
-First-Line Supervisors-Manager of Food Preparation
-Serving Worker
-First-Line Supervisors-Manager of Helper
-First-Line Supervisors-Manager of Housekeeping
-Janitorial Worker
-First-Line Supervisors-Manager of Landscaping
-First-Line Supervisors-Manager of Mechanic
-First-Line Supervisors-Manager of Non-Retail Sale Worker
-First-Line Supervisors-Manager of Office
-Administrative Support Worker
-First-Line Supervisors-Manager of Personal Service Worker
-First-Line Supervisors-Manager of Police
-Detective
-First-Line Supervisors-Manager of Production
-Operating Worker
-First-Line Supervisors-Manager of Retail Sale Worker
-First-Line Supervisors-Manager of Transportation
-Material-Moving Machine
-Vehicle Operator
-First-Line Supervisors-Manager of Weapon Specialists--Crew Member
-First-Line Supervisors-Manager
-Fish
-Game Warden
-Fish Hatchery Manager
-Fisher
-Related Fishing Worker
-Fitne
-Wellne Coordinator
-Fitne Trainer
-Aerobic Instructor
-Fitter
-Flight Attendant
-Flight Attendant
-Floor Layer
-Floor Sander
-Finisher
-Floral Designer
-Food
-Tobacco Roasting
-Food Batchmaker
-Food Cooking Machine Operator
-Tender
-Food Preparation
-Serving Related Worker
-Food Preparation Worker
-Food Science Technician
-Food Scientist
-Technologist
-Food Server
-Food Service Manager
-Foreign Language
-Literature Teacher
-Forensic Science Technician
-Forest
-Conservation Technician
-Forest
-Conservation Worker
-Forest Fire Fighter
-Forest Fire Fighting
-Prevention Supervisor
-Forest Fire Inspector
-Prevention Specialist
-Forester
-Forestry
-Conservation Science Teacher
-Forging Machine Setter
-Foundry Mold
-Coremaker
-Frame Wirer
-Fraud Examiner
-Freight
-Cargo Inspector
-Freight Forwarder
-Freight Inspector
-Freight
-Fuel Cell Engineer
-Fuel Cell Technician
-Fundraiser
-Funeral Attendant
-Funeral Director
-Furnace
-Furniture Finisher
-Gaming
-Sport Book Writer
-Runner
-Gaming Cage Worker
-Gaming Change Person
-Booth Cashier
-Gaming Dealer
-Gaming Manager
-Gaming Service Worker
-Gaming Supervisor
-Gaming Surveillance Officer
-Gaming Investigator
-Ga Appliance Repairer
-Ga Compressor
-Ga Pumping Station Operator
-Ga Compressor Operator
-Ga Distribution Plant Operator
-Ga Plant Operator
-Ga Processing Plant Operator
-Ga Pumping Station Operator
-Gauger
-Gem
-Diamond Worker
-General
-Operation Manager
-General Farmworker
-Genetic Counselor
-Geneticist
-Geodetic Surveyor
-Geographer
-Geographic Information System Technician
-Geography Teacher
-Geological
-Petroleum Technician
-Geological Data Technician
-Geological Sample Test Technician
-Geologist
-Geoscientist
-Geospatial Information Scientist
-Technologist
-Geothermal Production Manager
-Geothermal Technician
-Gla Blower
-Gla Cutting Machine Setter
-Set-Up Operator
-Glazier
-Government Property Inspector
-Investigator
-Government Service Executive
-Grader
-Grader
-Sorter
-Graduate Teaching Assistant
-Graphic Designer
-Green Marketer
-Grinding
-Polishing Worker
-Grinding
-Grinding
-Grip
-Set-Up Worker
-Ground Maintenance Worker
-Hairdresser
-Hand
-Portable Power Tool Repairer
-Hand Compositor
-Typesetter
-Hazardou Material Removal Worker
-Health
-Safety Engineer
-Health Diagnosing
-Treating Practitioner
-Health Educator
-Health Specialtie Teacher
-Health Technologist
-Technician
-Healthcare Practitioner
-Technical Worker
-Healthcare Support Worker
-Hearing Aid Specialist
-Heat Treating Equipment Setter
-Heat Treating
-Heater
-Heating
-Air Conditioning Mechanic
-Heating Equipment Setter
-Set-Up Operator
-Heating
-Helper
-Helpers--Brickmason
-Helpers--Carpenter
-Helpers--Electrician
-Helpers--Extraction Worker
-Helpers--Installation
-Helpers--Painter
-Helpers--Pipelayer
-Helpers--Production Worker
-Helpers--Roofer
-Highway Maintenance Worker
-Highway Patrol Pilot
-Historian
-History Teacher
-Histotechnologist
-Histologic Technician
-Hoist
-Winch Operator
-Home Appliance Installer
-Home Appliance Repairer
-Home Economic Teacher
-Home Health Aide
-Hospitalist
-Host
-Hostesse
-Hotel
-Housekeeping Supervisor
-Human Factor Engineer
-Ergonomist
-Human Resource Assistant
-Human Resource Manager
-Human Resource Manager
-Human Resource Manager
-Human Resource
-Hunter
-Trapper
-Hydroelectric Plant Technician
-Hydroelectric Production Manager
-Hydrologist
-Immigration
-Custom Inspector
-Industrial Ecologist
-Industrial Engineering Technician
-Industrial Engineering Technologist
-Industrial Engineer
-Industrial Machinery Mechanic
-Industrial Production Manager
-Industrial Safety
-Health Engineer
-Industrial Truck
-Tractor Operator
-Industrial-Organizational Psychologist
-Infantry
-Infantry Officer
-Informatic Nurse Specialist
-Information
-Record Clerk
-Information Security Analyst
-Information Technology Project Manager
-Inspector
-Installation
-Instructional Coordinator
-Instructional Designer
-Technologist
-Insulation Worker
-Insulation Worker
-Insurance Adjuster
-Insurance Appraiser
-Insurance Claim
-Policy Processing Clerk
-Insurance Claim Clerk
-Insurance Policy Processing Clerk
-Insurance Sale Agent
-Insurance Underwriter
-Intelligence Analyst
-Interior Designer
-Internist
-Interpreter
-Translator
-Interviewer
-Investment Fund Manager
-Investment Underwriter
-Irradiated-Fuel Handler
-Janitorial Supervisor
-Janitor
-Cleaner
-Jeweler
-Jeweler
-Preciou Stone
-Metal Worker
-Job Printer
-Judge
-Judicial Law Clerk
-Keyboard Instrument Repairer
-Tuner
-Kindergarten Teacher
-Labor Relation Specialist
-Laborer
-Freight
-Landscape Architect
-Landscaping
-Groundskeeping Worker
-Lathe
-Turning Machine Tool Setter
-Laundry
-Drycleaning Machine Operator
-Tender
-Laundry
-Dry-Cleaning Worker
-Law Clerk
-Law Teacher
-Lawn Service Manager
-Lawyer
-Lay-Out Worker
-Legal Secretarie
-Legal Support Worker
-Legislator
-Letterpre Setter
-Set-Up Operator
-Librarian
-Library Assistant
-Library Science Teacher
-Library Technician
-License Clerk
-Licensed Practical
-Licensed Vocational Nurse
-Licensing Examiner
-Inspector
-Life Scientist
-Life
-Lifeguard
-Loading Machine Operator
-Loan Counselor
-Loan Counselor
-Loan Interviewer
-Clerk
-Loan Officer
-Locker Room
-Locksmith
-Safe Repairer
-Locomotive Engineer
-Locomotive Firer
-Lodging Manager
-Log Grader
-Scaler
-Logging Equipment Operator
-Logging Tractor Operator
-Logging Worker
-Logistician
-Logistic Analyst
-Logistic Engineer
-Logistic Manager
-Lo Prevention Manager
-Low Vision Therapist
-Machine Feeder
-Offbearer
-Machinist
-Magnetic Resonance Imaging Technologist
-Maid
-Housekeeping Cleaner
-Mail Clerk
-Mail Machine Operator
-Mail Clerk
-Mail Machine Operator
-Maintenance
-Repair Worker
-Maintenance
-Repair Worker
-Maintenance Worker
-Makeup Artist
-Management Analyst
-Manager
-Manicurist
-Pedicurist
-Manufactured Building
-Mobile Home Installer
-Manufacturing Engineering Technologist
-Manufacturing Engineer
-Manufacturing Production Technician
-Mapping Technician
-Marine Architect
-Marine Cargo Inspector
-Marine Engineer
-Marine Engineer
-Naval Architect
-Market Research Analyst
-Market Research Analyst
-Marketing Specialist
-Marketing Manager
-Marking
-Identification Printing Machine Setter
-Set-Up Operator
-Marking Clerk
-Marriage
-Family Therapist
-Massage Therapist
-Material Moving Worker
-Material Engineer
-Material Inspector
-Material Scientist
-Mates- Ship
-Mathematical Science Occupation
-Mathematical Science Teacher
-Mathematical Technician
-Mathematician
-Meat
-Mechanical Door Repairer
-Mechanical Drafter
-Mechanical Engineering Technician
-Mechanical Engineering Technologist
-Mechanical Engineer
-Mechanical Inspector
-Mechatronic Engineer
-Media
-Communication Equipment Worker
-Media
-Communication Worker
-Medical
-Clinical Laboratory Technician
-Medical
-Clinical Laboratory Technologist
-Medical
-Health Service Manager
-Medical
-Public Health Social Worker
-Medical Appliance Technician
-Medical Assistant
-Medical Equipment Preparer
-Medical Equipment Repairer
-Medical Record
-Health Information Technician
-Medical Scientist
-Medical Secretarie
-Medical Transcriptionist
-Meeting
-Convention Planner
-Mental Health
-Substance Abuse Social Worker
-Mental Health Counselor
-Merchandise Displayer
-Window Trimmer
-Metal Fabricator
-Metal Molding
-Metal Molding
-Metal Worker
-Plastic Worker
-Metal-Refining Furnace Operator
-Tender
-Meter Mechanic
-Meter Reader
-Methane Landfill Ga Generation System Technician
-Methane/Landfill Ga Collection System Operator
-Microbiologist
-Microsystem Engineer
-Middle School Teacher
-Midwive
-Military Enlisted Tactical Operation
-Air--Weapon Specialist
-Crew Member
-Military Officer Special
-Tactical Operation Leaders--Manager
-Milling
-Planing Machine Setter
-Millwright
-Mine Cutting
-Channeling Machine Operator
-Mining
-Geological Engineer
-Mining Machine Operator
-Mixing
-Blending Machine Setter
-Mobile Heavy Equipment Mechanic
-Model
-Mold Maker
-Model Maker
-Model Maker
-Model
-Mold Maker
-Molder
-Molding
-Casting Worker
-Molding
-Molecular
-Cellular Biologist
-Mortician
-Motion Picture Projectionist
-Motor Vehicle Inspector
-Motor Vehicle Operator
-Motorboat Mechanic
-Motorboat Operator
-Motorcycle Mechanic
-Multi-Media Artist
-Animator
-Multiple Machine Tool Setter
-Municipal Clerk
-Municipal Fire Fighter
-Municipal Fire Fighting
-Prevention Supervisor
-Museum Technician
-Conservator
-Music Arranger
-Orchestrator
-Music Composer
-Arranger
-Music Director
-Music Director
-Composer
-Music Therapist
-Musical Instrument Repairer
-Tuner
-Musician
-Singer
-Musician
-Nannie
-Nanosystem Engineer
-Nanotechnology Engineering Technician
-Nanotechnology Engineering Technologist
-Natural Science Manager
-Naturopathic Physician
-Network
-Computer System Administrator
-Network
-Computer System Administrator
-Network System
-Data Communication Analyst
-Neurodiagnostic Technologist
-Neurologist
-Neuropsychologist
-Clinical Neuropsychologist
-New Account Clerk
-Non-Destructive Testing Specialist
-Nonelectrolytic Plating
-Coating Machine Operator
-Tender
-Nonelectrolytic Plating
-Coating Machine Setter
-Set-Up Operator
-Nonfarm Animal Caretaker
-Nuclear Engineer
-Nuclear Equipment Operation Technician
-Nuclear Medicine Physician
-Nuclear Medicine Technologist
-Nuclear Monitoring Technician
-Nuclear Power Reactor Operator
-Nuclear Technician
-Numerical Control Machine Tool Operator
-Tender
-Numerical Tool
-Proce Control Programmer
-Nurse Anesthetist
-Nurse Midwive
-Nurse Practitioner
-Nursery
-Greenhouse Manager
-Nursery
-Greenhouse Manager
-Nursery Worker
-Nursing Aide
-Nursing Assistant
-Nursing Instructor
-Teacher
-Obstetrician
-Gynecologist
-Occupational Health
-Safety Specialist
-Occupational Health
-Safety Technician
-Occupational Therapist Aide
-Occupational Therapist Assistant
-Occupational Therapist
-Office
-Administrative Support Worker
-Office Clerk
-Office Machine
-Cash Register Servicer
-Office Machine Operator
-Offset Lithographic Pre Setter
-Set-Up Operator
-Online Merchant
-Operating Engineer
-Operating Engineer
-Other Construction Equipment Operator
-Operation Research Analyst
-Ophthalmic Laboratory Technician
-Ophthalmic Medical Technician
-Ophthalmic Medical Technologist
-Ophthalmologist
-Optical Instrument Assembler
-Optician
-Optometrist
-Oral
-Maxillofacial Surgeon
-Order Clerk
-Order Filler
-Orderlie
-Ordinary Seamen
-Marine Oiler
-Orthodontist
-Orthoptist
-Orthotist
-Prosthetist
-Outdoor Power Equipment
-Other Small Engine Mechanic
-Packaging
-Filling Machine Operator
-Tender
-Packer
-Packager
-Painter
-Illustrator
-Painter
-Painter
-Painting
-Pantograph Engraver
-Paper Good Machine Setter
-Paperhanger
-Paralegal
-Legal Assistant
-Park Naturalist
-Parking Enforcement Worker
-Parking Lot Attendant
-Part Salesperson
-Paste-Up Worker
-Pathologist
-Patient Representative
-Patternmaker
-Patternmaker
-Paving
-Payroll
-Timekeeping Clerk
-Pediatrician
-Percussion Instrument Repairer
-Tuner
-Personal
-Home Care Aide
-Personal Care
-Service Worker
-Personal Financial Advisor
-Personnel Recruiter
-Pest Control Worker
-Pesticide Handler
-Petroleum Engineer
-Petroleum Pump System Operator
-Petroleum Pump System Operator
-Petroleum Refinery
-Control Panel Operator
-Pewter Caster
-Finisher
-Pharmacist
-Pharmacy Aide
-Pharmacy Technician
-Philosophy
-Religion Teacher
-Phlebotomist
-Photoengraver
-Photoengraving
-Lithographing Machine Operator
-Tender
-Photographer
-Photographer
-Photographic Hand Developer
-Photographic Proce Worker
-Photographic Proce Worker
-Processing Machine Operator
-Photographic Processing Machine Operator
-Photographic Reproduction Technician
-Photographic Retoucher
-Restorer
-Photonic Engineer
-Photonic Technician
-Physical Medicine
-Rehabilitation Physician
-Physical Scientist
-Physical Therapist Aide
-Physical Therapist Assistant
-Physical Therapist
-Physician Assistant
-Physician
-Surgeon
-Physicist
-Physic Teacher
-Pile-Driver Operator
-Pilot
-Pipe Fitter
-Pipelayer
-Pipelaying Fitter
-Plant
-System Operator
-Plant Scientist
-Plasterer
-Stucco Mason
-Plastic Molding
-Casting Machine Operator
-Tender
-Plastic Molding
-Casting Machine Setter
-Set-Up Operator
-Plate Finisher
-Platemaker
-Plating
-Coating Machine Setter
-Plumber
-Plumber
-Podiatrist
-Poet
-Lyricist
-Poet
-Police
-Sheriff Patrol Officer
-Police Detective
-Police Identification
-Record Officer
-Police Patrol Officer
-Police
-Political Science Teacher
-Political Scientist
-Postal Service Clerk
-Postal Service Mail Carrier
-Postal Service Mail Sorter
-Postmaster
-Mail Superintendent
-Postsecondary Teacher
-Potter
-Pourer
-Caster
-Power Distributor
-Dispatcher
-Power Generating Plant Operator
-Power Plant Operator
-Preciou Metal Worker
-Precision Agriculture Technician
-Precision Device Inspector
-Tester
-Precision Dyer
-Precision Etcher
-Engraver
-Precision Instrument
-Equipment Repairer
-Precision Len Grinder
-Polisher
-Precision Mold
-Pattern Caster
-Precision Pattern
-Die Caster
-Precision Printing Worker
-Prepre Technician
-Prepre Technician
-Worker
-Preschool Teacher
-Pre
-Pre Brake Machine Setter
-Set-Up Operator
-Presser
-Presser
-Presser
-Pressing Machine Operator
-Tenders- Textile
-Pressure Vessel Inspector
-Preventive Medicine Physician
-Print Binding
-Finishing Worker
-Printing Machine Operator
-Printing Pre Machine Operator
-Tender
-Printing Pre Operator
-Private Detective
-Investigator
-Private Sector Executive
-Probation Officer
-Correctional Treatment Specialist
-Procurement Clerk
-Producer
-Producer
-Director
-Product Safety Engineer
-Production Helper
-Production Inspector
-Production Laborer
-Production Worker
-Production
-Professional Photographer
-Program Director
-Proofreader
-Copy Marker
-Property
-Prosthodontist
-Protective Service Worker
-Psychiatric Aide
-Psychiatric Technician
-Psychiatrist
-Psychologist
-Psychology Teacher
-Public Addre System
-Other Announcer
-Public Relation Manager
-Public Relation Specialist
-Public Transportation Inspector
-Pump Operator
-Punching Machine Setter
-Set-Up Operator
-Purchasing Agent
-Buyer
-Purchasing Agent
-Purchasing Manager
-Quality Control Analyst
-Quality Control System Manager
-Radar
-Sonar Technician
-Radiation Therapist
-Radio
-Television Announcer
-Radio Frequency Identification Device Specialist
-Radio Mechanic
-Radio Mechanic
-Radio Operator
-Radiologic Technician
-Radiologic Technician
-Radiologic Technologist
-Radiologic Technologist
-Technician
-Radiologist
-Rail Car Repairer
-Rail Transportation Worker
-Rail Yard Engineer
-Railroad Brake
-Railroad Conductor
-Yardmaster
-Railroad Inspector
-Railroad Yard Worker
-Rail-Track Laying
-Maintenance Equipment Operator
-Range Manager
-Real Estate Broker
-Real Estate Sale Agent
-Receptionist
-Information Clerk
-Recreation
-Fitne Studie Teacher
-Recreation Worker
-Recreational Therapist
-Recreational Vehicle Service Technician
-Recycling
-Reclamation Worker
-Recycling Coordinator
-Reed or Wind Instrument Repairer
-Tuner
-Refractory Material Repairer
-Refrigeration Mechanic
-Refuse
-Recyclable Material Collector
-Registered Nurse
-Registered Nurse
-Regulatory Affair Manager
-Regulatory Affair Specialist
-Rehabilitation Counselor
-Reinforcing Iron
-Rebar Worker
-Religiou Worker
-Remote Sensing Scientist
-Technologist
-Remote Sensing Technician
-Reporter
-Correspondent
-Reservation
-Transportation Ticket Agent
-Reservation
-Transportation Ticket Agent
-Travel Clerk
-Residential Advisor
-Respiratory Therapist
-Respiratory Therapy Technician
-Retail Lo Prevention Specialist
-Retail Salesperson
-Rigger
-Risk Management Specialist
-Robotic Engineer
-Robotic Technician
-Rock Splitter
-Rolling Machine Setter
-Roof Bolter
-Roofer
-Rotary Drill Operator
-Rough Carpenter
-Roustabout
-Sailor
-Marine Oiler
-Sale Agent
-Sale Agent
-Sale
-Related Worker
-Sale Engineer
-Sale Manager
-Sale Representative
-Sale Representative
-Sale Representative
-Sale Representative
-Sale Representative
-Sale Representative
-Sale Representative
-Sale Representative
-Sale Representative
-Sawing Machine Operator
-Tender
-Sawing Machine Setter
-Set-Up Operator
-Sawing Machine Setter
-Sawing Machine Tool Setter
-Set-Up Operator
-Scanner Operator
-Screen Printing Machine Setter
-Set-Up Operator
-Sculptor
-Search Marketing Strategist
-Secondary School Teacher
-Secretarie
-Securitie
-Commoditie Trader
-Securitie
-Security
-Fire Alarm System Installer
-Security Guard
-Security Management Specialist
-Security Manager
-Segmental Paver
-Self-Enrichment Education Teacher
-Semiconductor Processor
-Separating
-Septic Tank Servicer
-Sewer Pipe Cleaner
-Service Station Attendant
-Service Unit Operator
-Set
-Exhibit Designer
-Set Designer
-Sewer
-Sewing Machine Operator
-Sewing Machine Operator
-Sewing Machine Operator
-Shampooer
-Shear
-Slitter Machine Setter
-Set-Up Operator
-Sheet Metal Worker
-Sheriff
-Deputy Sheriff
-Ship
-Boat Captain
-Ship Carpenter
-Joiner
-Ship Engineer
-Shipping
-Shoe
-Leather Worker
-Repairer
-Shoe Machine Operator
-Tender
-Shop
-Alteration Tailor
-Shuttle Car Operator
-Signal
-Track Switch Repairer
-Silversmith
-Singer
-Sketch Artist
-Skin Care Specialist
-Slaughterer
-Meat Packer
-Slot Key Person
-Social
-Community Service Manager
-Social
-Human Service Assistant
-Social Science Research Assistant
-Social Science Teacher
-Social Scientist
-Related Worker
-Social Work Teacher
-Social Worker
-Sociologist
-Sociology Teacher
-Software Developer
-Software Developer
-Software Quality Assurance Engineer
-Tester
-Soil
-Plant Scientist
-Soil Conservationist
-Soil Scientist
-Solar Energy Installation Manager
-Solar Energy System Engineer
-Solar Photovoltaic Installer
-Solar Sale Representative
-Assessor
-Solar Thermal Installer
-Technician
-Solderer
-Solderer
-Brazer
-Soldering
-Brazing Machine Operator
-Tender
-Soldering
-Brazing Machine Setter
-Set-Up Operator
-Sound Engineering Technician
-Spa Manager
-Special Education Teacher
-Special Education Teacher
-Special Education Teacher
-Special Education Teacher
-Special Education Teacher
-Special Education Teacher
-Special Education Teacher
-Special Force
-Special Force Officer
-Speech-Language Pathologist
-Speech-Language Pathology Assistant
-Sport Medicine Physician
-Spotter
-Statement Clerk
-Station Installer
-Repairer
-Stationary Engineer
-Stationary Engineer
-Boiler Operator
-Statistical Assistant
-Statistician
-Stevedore
-Stock Clerk
-Order Filler
-Stock Clerks- Stockroom
-Stock Clerk
-Stone Cutter
-Carver
-Stone Sawyer
-Stonemason
-Storage
-Distribution Manager
-Stringed Instrument Repairer
-Tuner
-Stripper
-Structural Iron
-Steel Worker
-Structural Metal Fabricator
-Fitter
-Substance Abuse
-Behavioral Disorder Counselor
-Subway
-Streetcar Operator
-Supply Chain Manager
-Surgeon
-Surgical Assistant
-Surgical Technologist
-Survey Researcher
-Surveying
-Mapping Technician
-Surveying Technician
-Surveyor
-Sustainability Specialist
-Switchboard Operator
-Tailor
-Talent Director
-Tank Car
-Taper
-Tax Examiner
-Tax Preparer
-Taxi Driver
-Chauffeur
-Teacher Assistant
-Teacher
-Instructor
-Team Assembler
-Technical Directors--Manager
-Technical Writer
-Telecommunication Engineering Specialist
-Telecommunication Equipment Installer
-Repairer
-Telecommunication Facility Examiner
-Telecommunication Line Installer
-Repairer
-Telemarketer
-Telephone Operator
-Teller
-Terrazzo Worker
-Finisher
-Textile Bleaching
-Dyeing Machine Operator
-Tender
-Textile Cutting Machine Setter
-Textile Knitting
-Weaving Machine Setter
-Textile Winding
-Textile
-Therapist
-Tile
-Marble Setter
-Timing Device Assembler
-Tire Builder
-Tire Repairer
-Changer
-Title Examiner
-Abstractor
-Title Examiner
-Title Searcher
-Tool
-Die Maker
-Tool Grinder
-Tour Guide
-Escort
-Tour Guide
-Escort
-Tractor-Trailer Truck Driver
-Traffic Technician
-Train Crew Member
-Training
-Development Manager
-Training
-Development Manager
-Training
-Development Specialist
-Training
-Development Specialist
-Transformer Repairer
-Transit
-Railroad Police
-Transportation Attendant
-Transportation Attendant
-Transportation Engineer
-Transportation Inspector
-Transportation Manager
-Transportation Planner
-Transportation Security Screener
-Transportation Vehicle
-Transportation Worker
-Transportation
-Travel Agent
-Travel Clerk
-Travel Guide
-Travel Guide
-Treasurer
-Tree Trimmer
-Pruner
-Truck Driver
-Truck Driver
-Truck Driver
-Tutor
-Typesetting
-Composing Machine Operator
-Tender
-Umpire
-Upholsterer
-Urban
-Regional Planner
-Urologist
-Usher
-Validation Engineer
-Valve
-Regulator Repairer
-Veterinarian
-Veterinary Assistant
-Laboratory Animal Caretaker
-Veterinary Technologist
-Technician
-Video Game Designer
-Vocational Education Teacher Postsecondary
-Vocational Education Teacher
-Vocational Education Teacher
-Waiter
-Waitresse
-Watch Repairer
-Water
-Liquid Waste Treatment Plant
-System Operator
-Water Resource Specialist
-Water/Wastewater Engineer
-Weatherization Installer
-Technician
-Web Administrator
-Web Developer
-Weigher
-Welder-Fitter
-Welder
-Cutter
-Welder
-Welder
-Welder
-Welding Machine Operator
-Tender
-Welding Machine Setter
-Set-Up Operator
-Welding
-Welfare Eligibility Worker
-Interviewer
-Well
-Core Drill Operator
-Wellhead Pumper
-Wholesale
-Retail Buyer
-Wind Energy Engineer
-Wind Energy Operation Manager
-Wind Energy Project Manager
-Wind Turbine Service Technician
-Woodworker
-Woodworking Machine Operator
-Tender
-Woodworking Machine Setter
-Set-Up Operator
-Woodworking Machine Setter
-Word Processor
-Typist
-Writer
-Author
-Zoologist
-Wildlife Biologist
-CEO
-CTO
 CAO
 CBO
+CEO
 CFO
-
+CTO
+abstractor
+abuse
+accountant
+actor
+actuaries
+acupuncturist
+adjuster
+administrator
+advisor
+agent
+agricultural
+aide
+allergist
+amusement
+analyst
+anesthesiologist
+anesthetist
+animator
+announcer
+anthropologist
+anthropology
+appliance
+appraiser
+arbitrator
+archeologist
+architect
+architectural
+archivist
+arranger
+artillery
+artist
+assembler
+assessor
+assistant
+astronomer
+athlete
+atmospheric
+attendant
+audiologist
+auditor
+author
+authorizer
+bailiff
+baker
+barber
+barista
+bartender
+batchmaker
+bellhop
+biochemist
+biologist
+biophysicist
+biostatistician
+blockmason
+blower
+boilermaker
+bolter
+bookbinder
+brazer
+breeder
+brickmason
+bridge
+broker
+builder
+butcher
+buyer
+cabinetmaker
+calibration
+captain
+caretaker
+carpenter
+carrier
+cartographer
+cartoonist
+carver
+cashier
+caster
+changer
+chauffeur
+checker
+chef
+chemist
+chiropractor
+choreographer
+cleaner
+clergy
+clerk
+clinical
+coach
+collector
+community
+competitor
+composer
+compositor
+compressor
+computer
+concierge
+conductor
+conservationist
+conservator
+construction
+contractor
+controller
+cook
+coordinator
+coremaker
+coroner
+correspondent
+counselor
+counter
+courier
+curator
+cutter
+cytotechnologist
+dancer
+dealer
+demonstrator
+dentist
+dermatologist
+designer
+detective
+developer
+dietitian
+director
+directors-manager
+dishwasher
+dispatcher
+displayer
+distributor
+diver
+drafter
+driller
+driver
+dyer
+ecologist
+economist
+editor
+education
+educational
+educator
+electrician
+electrotyper
+embalmer
+employment
+engineer
+engraver
+entertainer
+epidemiologist
+equipment
+erector
+ergonomist
+escort
+estimator
+etcher
+examiner
+executive
+fabric
+fabricator
+faller
+farmer
+farmworker
+feeder
+fighter
+filler
+finisher
+fire-prevention
+firer
+fisher
+fitter
+forester
+forestry
+forwarder
+freight
+fundraiser
+furnace
+gauger
+geneticist
+geographer
+geological
+geologist
+geoscientist
+glazier
+grader
+grinder
+guard
+guide
+gynecologist
+hairdresser
+handler
+health
+heater
+helper
+historian
+histotechnologist
+hoist
+hospitalist
+host
+hostess
+hotel
+hunter
+husbandry
+hydrologist
+hygienist
+identification
+illustrator
+immigration
+immunologist
+infantry
+information
+inspector
+installation
+installer
+instructor
+internist
+interpreter
+interviewer
+investigator
+jailer
+janitor
+jeweler
+joiner
+judge
+keyer
+laborer
+laminator
+language
+lathe
+lawyer
+layer
+leaders-manager
+legislator
+librarian
+lifeguard
+literacy
+locksmith
+logistician
+lyricist
+machine
+machinist
+maid
+maintenance
+maker
+manager
+manicurist
+marker
+marketer
+marriage
+mason
+mathematician
+meat
+mechanic
+medical
+medicine
+member
+mender
+merchant
+messenger
+microbiologist
+midwive
+millwright
+model
+molder
+molecular
+mortician
+musician
+nannie
+naturalist
+neurologist
+neuropsychologist
+nurse
+nursery
+nutritionist
+obstetrician
+occupation
+offbearer
+officer
+oiler
+operator
+ophthalmologist
+optician
+optometrist
+orchestrator
+orderlie
+orthodontist
+orthoptist
+orthotist
+packager
+packer
+painter
+paperhanger
+paralegal
+paramedic
+pathologist
+patternmaker
+paver
+pediatrician
+pedicurist
+performer
+person
+personal
+pharmacist
+philosophy
+phlebotomist
+photoengraver
+photogrammetrist
+photographer
+physician
+physicist
+physiologist
+pilot
+pipelayer
+planner
+plasterer
+platemaker
+plumber
+podiatrist
+poet
+police
+polisher
+porter
+postmaster
+postsecondary
+potter
+pourer
+practical
+practitioner
+preparer
+presser
+printer
+processor
+producer
+programmer
+projectionist
+promoter
+proofreader
+property
+prosthetist
+prosthodontist
+pruner
+psychiatrist
+psychologist
+publisher
+pumper
+radiologist
+rancher
+reader
+receptionist
+reconditioner
+record
+recruiter
+refinery
+refuse
+repairer
+reporter
+representative
+researcher
+reservation
+resource
+restorer
+retoucher
+rigger
+roofer
+roustabout
+runner
+safety
+sailor
+salesperson
+sander
+sawyer
+scaler
+scientist
+scout
+screener
+sculptor
+seamen
+searcher
+secretary
+security
+security
+server
+servicer
+setter
+sewer
+shampooer
+sheriff
+shipwright
+silversmith
+singer
+slaughterer
+sociologist
+solderer
+sonographer
+sorter
+specialist
+splitter
+spotter
+statistician
+stereotyper
+stevedore
+stockroom
+stonemason
+strategist
+stripper
+superintendent
+supervisor
+supervisors-manager
+surgeon
+surveyor
+tailor
+taker
+taper
+teacher
+technician
+technologist
+technology
+telemarketer
+teller
+tender
+tester
+therapist
+trader
+trainer
+transcriptionist
+translator
+transportation
+trapper
+treasurer
+trimmer
+tuner
+tutor
+typesetter
+typist
+umpire
+underwriter
+upholsterer
+urologist
+usher
+veterinarian
+waiter
+waitress
+warden
+weigher
+welder
+welder-fitter
+winder
+wirer
+woodworker
+worker
+writer
+yardmaster
+zoologist

@@ -18,6 +18,5 @@ class CareerUpdateSpider(scrapy.Spider):
             career = career.split(',')[0]
             for profession in career.split(' and '):
                 yield {
-                    'career': ' '.join([word.rstrip('s').strip()
-                                        for word in profession.split()])
+                    'career': profession.split()[-1].rstrip('s')
                 }
