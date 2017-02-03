@@ -67,7 +67,7 @@ class PeopleSearchSpider(InitSpider):
 
     def check_login_response(self, response):
         if b'Sign Out' in response.body:
-            self.logger.debug("Successfully logged in. Let's start crawling!")
+            self.logger.info("Successfully logged in. Let's start crawling!")
             return self.initialized()
 
         error_msg = response.css('span.error::text').extract_first()

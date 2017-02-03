@@ -23,6 +23,7 @@ class Command(BaseCommand):
 
     def process_options(self, args, opts):
         opts.output = opts.output or 'results.csv'
+        opts.loglevel = opts.loglevel or 'INFO'
 
         super().process_options(args, opts)
 
