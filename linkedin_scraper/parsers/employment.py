@@ -15,7 +15,7 @@ class EmploymentParser(BaseParser):
         :return: position, company
         """
         if ' at ' in item:
-            # Easy case, standard LinkedIn format <position> at <company>
+            # Simplest case, standard LinkedIn format <position> at <company>
             return tuple(item.split(' at ', maxsplit=1))
 
         words = item.split()
@@ -27,7 +27,7 @@ class EmploymentParser(BaseParser):
                 founded_profession_index = len(words) - index
                 break
         else:
-            # We don't know which is which so return whole item as a position
+            # We don't know which is which so return whole string as a position
             return item, ''
 
         # We found profession name in employment string, everything

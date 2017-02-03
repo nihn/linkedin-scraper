@@ -26,7 +26,7 @@ class PersonNameParser(BaseParser):
 
     def _categorize_items(self, names):
         """
-        Categorize names into three groups: first_names, surnames, affixes and
+        Categorize names into four groups: first_names, surnames, affixes and
         unknown.
         """
         first_names, surnames, affixes, unknown = [], [], [], []
@@ -66,13 +66,14 @@ class PersonNameParser(BaseParser):
             affix_index_r = names.index(affixes[-1])
 
             if names[affix_index_r + 1:] and names[:affix_index_l]:
-                # Noble kind of surname, e.g. Someone von der ...
+                # Noble kind of surname, e.g. <first name> von der <surname>
                 return names[:affix_index_l], ' '.join(names[affix_index_l:])
 
         if first_names and not surnames and len(unknown) == 1:
-            # We did't find surname but everything except one item was
+            # We did't find surname but everything except for one item was
             # recognized as first name
             return first_names, unknown[0]
 
-        # Everything else failed, assume that last item is surname
+        # Everything above failed, use naive approach:
+        # assume that last item is surname
         return names[:-1], names[-1]
