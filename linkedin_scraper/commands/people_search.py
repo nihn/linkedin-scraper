@@ -1,6 +1,7 @@
 from getpass import getpass
 
 from scrapy.commands.crawl import Command as BaseCommand
+from scrapy.exceptions import UsageError
 
 
 def sanitize_query(query):
@@ -27,8 +28,13 @@ class Command(BaseCommand):
 
         super().process_options(args, opts)
 
+        try:
+            query = sanitize_query(args[0])
+        except IndexError:
+            raise UsageError()
+
         people_search_options = {
-            'query': sanitize_query(args[0]),
+            'query': query,
             'username': opts.username or input(
                 'Please provide your LinkedIn username: '),
             'password': opts.password or getpass(
