@@ -9,6 +9,30 @@ from linkedin_scraper.parsers import (
 )
 
 
+ignore_http_errors_lua_script = """
+function main(splash)
+  splash:init_cookies(splash.args.cookies)
+  splash:go{
+    splash.args.url,
+    headers=splash.args.headers,
+    http_method=splash.args.http_method,
+    body=splash.args.body,
+    }
+  assert(splash:wait(0.5))
+
+  local entries = splash:history()
+  local last_response = entries[#entries].response
+  return {
+    url = splash:url(),
+    headers = last_response.headers,
+    http_status = last_response.status,
+    cookies = splash:get_cookies(),
+    html = splash:html(),
+  }
+end
+"""
+
+
 class PeopleSearchSpider(InitSpider):
     name = 'people_search'
     allowed_domains = ['linkedin.com']
@@ -82,4 +106,6 @@ class PeopleSearchSpider(InitSpider):
     def make_requests_from_url(self, url):
         # Do SplashRequest instead of regular one to be able to evaluate
         # JavaScript, which is responsible for dynamic page generation.
-        return SplashRequest(url)
+        return SplashRequest(url, endpoint='execute',
+                             args={'lua_source': ignore_http_errors_lua_script},
+                             cache_args=['lua_source'])
