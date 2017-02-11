@@ -67,7 +67,6 @@ class PeopleSearchSpider(InitSpider):
                       'session_password': self.password})
 
     def parse(self, response):
-        self.logger.error('RES' + str(response))
         for search_result in response.css('li.mod.result.people'):
             names = search_result.css('a.title.main-headline').xpath(
                 'string(.)').extract_first()
