@@ -11,7 +11,7 @@ from linkedin_scraper.parsers import (
 
 ignore_http_errors_lua_script = """
 function main(splash)
-  splash:init_cookies(splash.args.cookies)
+  splash.resource_timeout = 3.0
   splash:go{
     splash.args.url,
     headers=splash.args.headers,
@@ -67,6 +67,7 @@ class PeopleSearchSpider(InitSpider):
                       'session_password': self.password})
 
     def parse(self, response):
+        self.logger.error('RES' + str(response))
         for search_result in response.css('li.mod.result.people'):
             names = search_result.css('a.title.main-headline').xpath(
                 'string(.)').extract_first()
