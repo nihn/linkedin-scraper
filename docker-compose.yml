@@ -13,4 +13,4 @@ services:
       SPLASH_ADDR: http://splash:8050
 
   splash:
-    image: scrapinghub/splash:2.1
+    image: scrapinghub/splash:2.3.1
