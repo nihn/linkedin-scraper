@@ -20,7 +20,7 @@ class EmploymentParser(BaseParser):
 
         words = item.split()
 
-        for index, word in enumerate(reversed(item.split())):
+        for index, word in enumerate(reversed(words)):
             normalized_word = word.strip(',.-').lower()
 
             if normalized_word in self.professions_list:
