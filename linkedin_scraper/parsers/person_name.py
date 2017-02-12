@@ -51,7 +51,7 @@ class PersonNameParser(BaseParser):
 
         # Names listed by LinkedIn do not have ',' included
         item = item.split(',')[0]
-        # Remove all unwanted items
+        # Remove all unwanted chars
         item = self.forbidden_chars_pattern.sub('', item)
 
         names = [name.capitalize() for name in item.split()]
